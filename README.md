@@ -52,3 +52,21 @@ The detailed training logs:
     scripts/ShortForecasting/HDKAN_s2.bat
     ```
 
+
+## Bibtex
+If you find this work useful, please consider citing it:
+ ```
+@article{DU2026123760,
+title = {HD-KAN: Hierarchical dual-dimension Kolmogorov-Arnold Networks with bidirectional time-frequency fusion for time series forecasting},
+journal = {Information Sciences},
+volume = {754},
+pages = {123760},
+year = {2026},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2026.123760},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025526006912},
+author = {Jinze Du and Songmao Jiang},
+}
+ ```
+
+
